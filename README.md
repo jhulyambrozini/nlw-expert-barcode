@@ -1,5 +1,5 @@
 # API BARCODES
-Este prjeto foi feito durante a NLW Expert da Rocketseat na trilha com foco em back end com Python
+Este projeto foi feito durante a NLW Expert da Rocketseat na trilha com foco em back end com Python
 
 Ele consiste em uma API para autmoatizar o processo de criação de código de barras, que possui a rota HTTP de:
 - Criar uma um código de barras (POST: /create_tag)
